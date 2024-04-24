@@ -1,5 +1,5 @@
 # text-detection
-Detect text in both images and real-time video frames using EasyOCR with a user-friendly interface.
+An application to detect text in both images and real-time video frames using EasyOCR with a modern interface.
 
 ---
 
